@@ -1,2 +1,3 @@
-[master c3077ea] Create a magic file school.mgc
- 2 files changed, 3 insertions(+), 3 deletions(-)
+[master 19d9597] Empty
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100755 0x01-shell_permissions/4-empty
