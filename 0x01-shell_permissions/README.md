@@ -1,1 +1,1 @@
-Write a script that sets the mode of the file
+Create a script that adds execute permission
