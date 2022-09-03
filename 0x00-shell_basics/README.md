@@ -1,1 +1,1 @@
-Create a magic file school.mgc
+Create a magic file
