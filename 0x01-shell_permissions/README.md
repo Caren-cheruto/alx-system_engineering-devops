@@ -1,1 +1,1 @@
-Create a script that adds execute permission
+Create a script that creates a directory
