@@ -1,1 +1,1 @@
-Write a script that converts a number
+Write a script that encodes and decodes
