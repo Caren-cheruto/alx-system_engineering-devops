@@ -1,1 +1,1 @@
-Write a script that encodes and decodes
+Write a script that prints
