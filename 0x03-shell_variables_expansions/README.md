@@ -1,1 +1,1 @@
-Write a script that converts a number
+Create a script that prints
