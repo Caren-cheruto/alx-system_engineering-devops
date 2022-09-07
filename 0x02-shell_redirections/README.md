@@ -1,1 +1,1 @@
-Write a script that counts the number
+Create a script that displays
