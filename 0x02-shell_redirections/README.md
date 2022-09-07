@@ -1,1 +1,1 @@
-Write a script that displays
+It is a good file
