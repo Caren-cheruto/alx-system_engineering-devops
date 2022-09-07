@@ -1,1 +1,1 @@
-Write a script that duplicates
+Write a script that deletes
