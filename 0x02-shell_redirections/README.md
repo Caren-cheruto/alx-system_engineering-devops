@@ -1,1 +1,1 @@
-It is a good file
+Write a script that writes into the file
