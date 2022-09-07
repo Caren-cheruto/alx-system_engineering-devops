@@ -1,1 +1,1 @@
-Write a script that deletes
+Write a script that counts the number
